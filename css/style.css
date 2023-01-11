@@ -338,6 +338,8 @@ body {
 }
 .team-social-icon {
   display: block;
+  width: 20px;
+  height: 20px;
   padding: 12px;
   border-radius: 50%;
   fill: var(--icons-color);
